@@ -1,4 +1,4 @@
-# Phenix 🔥
+# Phenix
 
 A CLI tool for setting up projects.
 
